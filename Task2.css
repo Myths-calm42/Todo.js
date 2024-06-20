@@ -1,0 +1,189 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+        background-color: #CAF4FF;
+
+}
+header{
+    background-color: rgb(240, 220, 220);
+   
+    border-color: black;
+}
+nav ul{
+    list-style-type: style type none;
+    padding: 0;
+    margin: 0;
+}
+nav li{
+    display: inline;
+   
+}
+nav li a{
+    color: black;
+    background-color: rgb(247, 230, 230);
+    border-radius: 5px;
+   
+}
+nav li a:hover{
+    background-color: white;
+} 
+
+.form{
+   
+    height: 80px;
+    text-align: center;
+    line-height: 20px;
+    padding: 100px;
+    box-shadow: 10px 10px 10px black;
+    
+  
+}
+#user{
+    font-size: 30px;
+    font-style: italic;
+    border-radius: 8px;
+}
+#pass{
+    font-size:30px;
+    font-style: italic;
+    border-radius: 8px;
+}
+.foter{
+    
+    text-align: right;
+    color: rgb(247, 242, 241);
+    position: relative;
+    right:18px;
+    top: 450px;
+}
+#top{
+    margin-top: 40px;
+    position: relative;
+    bottom: 20px;
+}
+
+h1{
+    color:white;
+    text-align: center;
+
+}
+h2{
+    text-decoration: underline;
+    position: relative;
+    left:10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#spd{
+    position: relative;
+    left:10px;
+    font-weight: 400;
+}
+#login{
+    text-align: center;
+    color: rgb(105, 225, 25);
+    font-weight: 800;
+    font-size: 30px;
+
+}
+
+.foter a{
+    color: white;
+
+}
+h3{
+    color:rgb(255, 166, 0);
+    font-size: 25px;
+    text-align: center;
+}
+#login{
+    color:rgb(255, 0, 0);
+    position:relative;
+    right: 150px;
+    margin: auto;
+    top: 70px;
+    font-size: 30;
+
+
+}
+body{
+   background-image: url(12.jpg);
+   background-size: cover;
+  
+}
+label{
+    color: white;
+    font-weight: bolder;
+    font-size: 30px;
+}
+button{
+    color: orange;
+    font-size: 20px;
+    position:relative;
+    right: 75px;
+    margin-top: 10px;
+
+}
+.navbar-brand{
+    font-size: 25px;
+}
+.form button{
+    position: relative;
+    right: 60px;
+    background-color: white;
+}
+nav{
+    background-color:#A0DEFF;
+    position: stick;
+}
+#reg_login{
+    position: relative;
+    left: 645px;
+    
+}
+.dropdown{
+    position: relative;
+    left: 410px;
+}
+#cards{
+    display:inline-block;
+    margin:.5px;
+    position: relative;
+    bottom:5px;
+    background-color: rgb(14, 14, 128);
+    
+
+}
+#e_search{
+    position: relative;
+    left: 460px;
+}
+
+#login_page{
+    position: relative;
+    right: 60px;
+}
+#qaz{
+    margin:.5px;
+    position: relative;
+    top: 10px;
+    left: 435px;
+    
+}
+#sugg{
+    text-align: center;
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    bottom: 25px;
+}
+#contact{
+    position: relative;
+    left: 960px;
+}
+#top h1:hover{
+    color: rgb(42, 224, 69);
+}
+#sugg h3:hover{
+    color: rgb(224, 42, 42);
+}
